@@ -1,0 +1,76 @@
+/Users/yunni/Desktop/CPP/5421A5/cmake-build-debug/5421A5
+Task No.1
+          Bracco Italiano --> Nacho,Bracco Italiano,4,male
+             Bull Terrier --> Abby,Bull Terrier,8,Female
+             Bull Terrier --> Raven,Bull Terrier,12,Male
+                Chihuahua --> Toby,Chihuahua,2,Male
+          Coton de Tulear --> Nacho,Coton de Tulear,3,male
+    Flat-Coated Retriever --> Abby,Flat-Coated Retriever,1,female
+      German Shepherd Dog --> Coco,German Shepherd Dog,13,Female
+                Stabyhoun --> Piper,Stabyhoun,9,male
+==========
+Task No.2
+          Bracco Italiano --> Nacho,Bracco Italiano,4,male
+             Bull Terrier --> Abby,Bull Terrier,8,Female
+             Bull Terrier --> Raven,Bull Terrier,12,Male
+                Chihuahua --> Toby,Chihuahua,2,Male
+          Coton de Tulear --> Nacho,Coton de Tulear,3,male
+    Flat-Coated Retriever --> Abby,Flat-Coated Retriever,1,female
+      German Shepherd Dog --> Coco,German Shepherd Dog,13,Female
+                Stabyhoun --> Piper,Stabyhoun,9,male
+==========
+Task No.3
+          Bracco Italiano --> Nacho,Bracco Italiano,4,male
+             Bull Terrier --> Abby,Bull Terrier,8,Female
+             Bull Terrier --> Raven,Bull Terrier,12,Male
+                Chihuahua --> Toby,Chihuahua,2,Male
+          Coton de Tulear --> Nacho,Coton de Tulear,3,male
+    Flat-Coated Retriever --> Abby,Flat-Coated Retriever,1,female
+      German Shepherd Dog --> Coco,German Shepherd Dog,13,Female
+                Stabyhoun --> Piper,Stabyhoun,9,male
+==========
+Task No.4
+                Stabyhoun --> Piper,Stabyhoun,9,male
+      German Shepherd Dog --> Coco,German Shepherd Dog,13,Female
+    Flat-Coated Retriever --> Abby,Flat-Coated Retriever,1,female
+          Coton de Tulear --> Nacho,Coton de Tulear,3,male
+                Chihuahua --> Toby,Chihuahua,2,Male
+             Bull Terrier --> Abby,Bull Terrier,8,Female
+             Bull Terrier --> Raven,Bull Terrier,12,Male
+          Bracco Italiano --> Nacho,Bracco Italiano,4,male
+==========
+Task No.5
+                Greyhound --> Tilly,Greyhound,8,female
+                Greyhound --> Lacey,Greyhound,5,Female
+                Greyhound --> Charlie,Greyhound,5,Male
+                Greyhound --> Roxy,Greyhound,10,female
+                Greyhound --> Izzy,Greyhound,5,Male
+                Greyhound --> Jasper,Greyhound,13,male
+----------
+         Lakeland Terrier --> Ollie,Lakeland Terrier,1,Female
+----------
+                      Pug --> Cubby,Pug,3,Female
+                      Pug --> Toby,Pug,5,male
+                      Pug --> Patch,Pug,6,male
+                      Pug --> Hera,Pug,11,female
+----------
+----------
+Task No.6
+the phrase "was it a car or A Cat I saW?" is a palindrome
+the phrase "was it A Car or a cat U saW?" is not a palindrome
+
+Task No.7
+Container's elements are all equal to 1
+Container's elements are all equal to 1
+The second largest element in vec is 3
+
+Task No.8
+4
+4
+4
+
+
+Task No.9
+A A A B C D BB BB CC CC AAA DDD 
+
+Process finished with exit code 0
