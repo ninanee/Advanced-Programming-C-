@@ -1,0 +1,614 @@
+Task 1 of 2
+
+/Users/yunni/Desktop/CPP/5421A4/cmake-build-debug/5421A4
+Shape Information
+-----------------
+id: 1
+Shape name: Rectangle
+Pen character: *
+Height: 5
+Width: 7
+Textual area: 35
+Geometric area: 35.00
+Textual perimeter: 20
+Geometric perimeter: 24.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+Shape Information
+-----------------
+id: 2
+Shape name: Ace of diamond
+Pen character: v
+Height: 17
+Width: 17
+Textual area: 145
+Geometric area: 144.50
+Textual perimeter: 32
+Geometric perimeter: 48.08
+Static type: PK5Shape
+Dynamic type: 7Rhombus
+
+Shape Information
+-----------------
+id: 3
+Shape name: Wedge
+Pen character: *
+Height: 9
+Width: 17
+Textual area: 81
+Geometric area: 76.50
+Textual perimeter: 32
+Geometric perimeter: 41.76
+Static type: PK5Shape
+Dynamic type: 13AcuteTriangle
+
+Shape Information
+-----------------
+id: 4
+Shape name: Carpenter's square
+Pen character: L
+Height: 10
+Width: 10
+Textual area: 55
+Geometric area: 50.00
+Textual perimeter: 27
+Geometric perimeter: 34.14
+Static type: PK5Shape
+Dynamic type: 13RightTriangle
+
+        v        
+       vvv       
+      vvvvv      
+     vvvvvvv     
+    vvvvvvvvv    
+   vvvvvvvvvvv   
+  vvvvvvvvvvvvv  
+ vvvvvvvvvvvvvvv 
+vvvvvvvvvvvvvvvvv
+ vvvvvvvvvvvvvvv 
+  vvvvvvvvvvvvv  
+   vvvvvvvvvvv   
+    vvvvvvvvv    
+     vvvvvvv     
+      vvvvv      
+       vvv       
+        v        
+
+*******
+*******
+*******
+*******
+*******
+
+        ^        
+       ^^^       
+      ^^^^^      
+     ^^^^^^^     
+    ^^^^^^^^^    
+   ^^^^^^^^^^^   
+  ^^^^^^^^^^^^^  
+ ^^^^^^^^^^^^^^^ 
+^^^^^^^^^^^^^^^^^
+
+L         
+LL        
+LLL       
+LLLL      
+LLLLL     
+LLLLLL    
+LLLLLLL   
+LLLLLLLL  
+LLLLLLLLL 
+LLLLLLLLLL
+
+O         
+OO        
+OOO       
+OOOO      
+OOOOO     
+OOOOOO    
+OOOOOOO   
+OOOOOOOO  
+OOOOOOOOO 
+OOOOOOOOOO
+
+         O
+        OO
+       OOO
+      OOOO
+     OOOOO
+    OOOOOO
+   OOOOOOO
+  OOOOOOOO
+ OOOOOOOOO
+OOOOOOOOOO
+
+OOOOOOOOOO
+ OOOOOOOOO
+  OOOOOOOO
+   OOOOOOO
+    OOOOOO
+     OOOOO
+      OOOO
+       OOO
+        OO
+         O
+
+OOOOOOOOOO
+OOOOOOOOO 
+OOOOOOOO  
+OOOOOOO   
+OOOOOO    
+OOOOO     
+OOOO      
+OOO       
+OO        
+O         
+
+*******
+*******
+*******
+*******
+*******
+
+        v        
+       vvv       
+      vvvvv      
+     vvvvvvv     
+    vvvvvvvvv    
+   vvvvvvvvvvv   
+  vvvvvvvvvvvvv  
+ vvvvvvvvvvvvvvv 
+vvvvvvvvvvvvvvvvv
+ vvvvvvvvvvvvvvv 
+  vvvvvvvvvvvvv  
+   vvvvvvvvvvv   
+    vvvvvvvvv    
+     vvvvvvv     
+      vvvvv      
+       vvv       
+        v        
+
+        *        
+       ***       
+      *****      
+     *******     
+    *********    
+   ***********   
+  *************  
+ *************** 
+*****************
+
+L         
+LL        
+LLL       
+LLLL      
+LLLLL     
+LLLLLL    
+LLLLLLL   
+LLLLLLLL  
+LLLLLLLLL 
+LLLLLLLLLL
+
+
+Process finished with exit code 0
+
+
+Task 2 of 2
+
+/Users/yunni/Desktop/CPP/5421A4/cmake-build-debug/5421A4
+Shape Information
+-----------------
+id: 2
+Shape name: left chimeny edge
+Pen character: |
+Height: 5
+Width: 1
+Textual area: 5
+Geometric area: 5.00
+Textual perimeter: 8
+Geometric perimeter: 12.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 3
+Shape name: right chimeny edge
+Pen character: |
+Height: 4
+Width: 1
+Textual area: 4
+Geometric area: 4.00
+Textual perimeter: 6
+Geometric perimeter: 10.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 4
+Shape name: antenna stem
+Pen character: I
+Height: 11
+Width: 1
+Textual area: 11
+Geometric area: 11.00
+Textual perimeter: 20
+Geometric perimeter: 24.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 6
+Shape name: vertical left and right brackets
+Pen character: [
+Height: 18
+Width: 1
+Textual area: 18
+Geometric area: 18.00
+Textual perimeter: 34
+Geometric perimeter: 38.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 6
+Shape name: vertical left and right brackets
+Pen character: [
+Height: 18
+Width: 1
+Textual area: 18
+Geometric area: 18.00
+Textual perimeter: 34
+Geometric perimeter: 38.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 6
+Shape name: vertical left and right brackets
+Pen character: ]
+Height: 18
+Width: 1
+Textual area: 18
+Geometric area: 18.00
+Textual perimeter: 34
+Geometric perimeter: 38.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 6
+Shape name: vertical left and right brackets
+Pen character: ]
+Height: 18
+Width: 1
+Textual area: 18
+Geometric area: 18.00
+Textual perimeter: 34
+Geometric perimeter: 38.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 7
+Shape name: horizontal lines depicting the ground
+Pen character: -
+Height: 1
+Width: 66
+Textual area: 66
+Geometric area: 66.00
+Textual perimeter: 130
+Geometric perimeter: 134.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 8
+Shape name: door step
+Pen character: /
+Height: 1
+Width: 12
+Textual area: 12
+Geometric area: 12.00
+Textual perimeter: 22
+Geometric perimeter: 26.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 9
+Shape name: door
+Pen character: |
+Height: 12
+Width: 12
+Textual area: 144
+Geometric area: 144.00
+Textual perimeter: 44
+Geometric perimeter: 48.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 10
+Shape name: door top/bottom edge
+Pen character: =
+Height: 1
+Width: 10
+Textual area: 10
+Geometric area: 10.00
+Textual perimeter: 18
+Geometric perimeter: 22.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 10
+Shape name: door top/bottom edge
+Pen character: =
+Height: 1
+Width: 10
+Textual area: 10
+Geometric area: 10.00
+Textual perimeter: 18
+Geometric perimeter: 22.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 11
+Shape name: door knob
+Pen character: O
+Height: 1
+Width: 1
+Textual area: 1
+Geometric area: 1.00
+Textual perimeter: 0
+Geometric perimeter: 4.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 12
+Shape name: left window
+Pen character: +
+Height: 5
+Width: 5
+Textual area: 13
+Geometric area: 12.50
+Textual perimeter: 8
+Geometric perimeter: 14.14
+Static type: PK5Shape
+Dynamic type: 7Rhombus
+
+=======================================
+Shape Information
+-----------------
+id: 12
+Shape name: left window
+Pen character: +
+Height: 5
+Width: 5
+Textual area: 13
+Geometric area: 12.50
+Textual perimeter: 8
+Geometric perimeter: 14.14
+Static type: PK5Shape
+Dynamic type: 7Rhombus
+
+=======================================
+Shape Information
+-----------------
+id: 13
+Shape name: tree trunk
+Pen character: H
+Height: 5
+Width: 3
+Textual area: 15
+Geometric area: 15.00
+Textual perimeter: 12
+Geometric perimeter: 16.00
+Static type: PK5Shape
+Dynamic type: 9Rectangle
+
+=======================================
+Shape Information
+-----------------
+id: 14
+Shape name: top level leaves
+Pen character: *
+Height: 4
+Width: 7
+Textual area: 16
+Geometric area: 14.00
+Textual perimeter: 12
+Geometric perimeter: 17.63
+Static type: PK5Shape
+Dynamic type: 13AcuteTriangle
+
+=======================================
+Shape Information
+-----------------
+id: 14
+Shape name: top level leaves
+Pen character: *
+Height: 6
+Width: 11
+Textual area: 36
+Geometric area: 33.00
+Textual perimeter: 20
+Geometric perimeter: 27.28
+Static type: PK5Shape
+Dynamic type: 13AcuteTriangle
+
+=======================================
+Shape Information
+-----------------
+id: 14
+Shape name: top level leaves
+Pen character: *
+Height: 10
+Width: 19
+Textual area: 100
+Geometric area: 95.00
+Textual perimeter: 36
+Geometric perimeter: 46.59
+Static type: PK5Shape
+Dynamic type: 13AcuteTriangle
+
+=======================================
+         a geometric house: front view                                  
+                                                                        
+                                                                        
+                         /\                                             
+                        //\\                                            
+                       ///\\\                                           
+                      ////\\\\                                          
+                     /////\\\\\                                         
+                    //////\\\\\\                                        
+                   ///////\\\\\\\                                       
+                  ////////\\\\\\\\     =====I=====                      
+          _/\_   /////////\\\\\\\\\     ====I====                       
+          \||/  //////////\\\\\\\\\\     ===I===                        
+           ||  ///////////\\\\\\\\\\\     ==I==                         
+           || ////////////\\\\\\\\\\\\     =I=                          
+           ||/////////////\\\\\\\\\\\\\     I                           
+           ||/////////////\\\\\\\\\\\\\\    I                           
+           |//////////////\\\\\\\\\\\\\\\   I                           
+          ////////////////\\\\\\\\\\\\\\\\  I                           
+         /////////////////\\\\\\\\\\\\\\\\\ I                           
+        //////////////////\\\\\\\\\\\\\\\\\\I               *           
+       ///////////////////\\\\\\\\\\\\\\\\\\\              ***          
+      /[][][][][][][][][][][][][][][][][][][]\            *****         
+       []                                  []            *******        
+       []                                  []             *****         
+       []               5421               []            *******        
+       []           |==========|           []           *********       
+       []      +    ||||||||||||    +      []          ***********      
+       []     +++   ||||||||||||   +++     []            *******        
+       []    +++++  ||||||||||||  +++++    []           *********       
+       []     +++   ||||||||||||   +++     []          ***********      
+       []      +    ||||||||||||    +      []         *************     
+       []           |O||||||||||           []        ***************    
+       []           ||||||||||||           []       *****************   
+       []           ||||||||||||           []      *******************  
+       []           ||||||||||||           []              HHH          
+       []           ||||||||||||           []              HHH          
+       []           |==========|           []              HHH          
+       []           ////////////           []              HHH          
+       [][][][][][][][][][][][][][][][][][][]              HHH          
+     --[][][][][][][][][][][][][][][][][][][]-------------------------- 
+    ------------------------------------------------------------------  
+   ------------------------------------------------------------------   
+  ------------------------------------------------------------------    
+ ------------------------------------------------------------------     
+------------------------------------------------------------------      
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+-------------------------------
+
+Process finished with exit code 0
+
